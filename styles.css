@@ -17,6 +17,10 @@ div {
   display: block;
 }
 
+#botdemo {
+  margin-top: 10%;
+}
+
 #productdes1 {
   margin-bottom: 18px;
   padding-top: 128px;
